@@ -1,2 +1,2 @@
 #
-![Results](Image/Capture.png)
+![Results](Image/Capture.PNG)
