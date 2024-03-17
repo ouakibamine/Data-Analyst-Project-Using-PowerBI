@@ -19,12 +19,14 @@ Dashboard Results
 ![results](Image/Capture.PNG)
 
 ## How to Use
-- Clone or download the project repository.
-- Install the required dependencies.
-- Follow the step-by-step guide provided in each section of the project.
-- Use the provided data and scripts to replicate the project on your own system.
-- Customize and modify the project as needed for your own learning or presentation purposes.
+1. Clone or download the project repository.
+2. Install the required dependencies.
+3. Follow the step-by-step guide provided in each section of the project.
+4. Use the provided data and scripts to replicate the project on your own system.
+5. Customize and modify the project as needed for your own learning or presentation purposes.
+
 ## Contributors
-[OUAKIB Amine]
+- [OUAKIB Amine]
+
 ## License
-This project is licensed under the [OUAKIB Amine]. See the LICENSE file for details.
+This project is licensed under the [OUAKIB Amine]. See the [LICENSE](LICENSE) file for details.
